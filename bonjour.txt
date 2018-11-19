@@ -1,4 +1,11 @@
 <s>xD</s>
 salut mahdi
 comment tu vas
+<<<<<<< HEAD
 salutt 
+=======
+salutt
+
+<h>lool</h>
+<b>xD</b>
+>>>>>>> dev
